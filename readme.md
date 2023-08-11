@@ -32,6 +32,8 @@ Before you begin, make sure to follow these steps:
     }
 ]
 
+```
+
 ## Make a Visit
 
 **Endpoint:** `/api/make_visit/`
@@ -46,7 +48,7 @@ Before you begin, make sure to follow these steps:
         "longitude": -122.4194
     }
 
-
+```
 **Response:**
 ```json
 {
